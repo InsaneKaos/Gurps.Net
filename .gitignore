@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Gurps.Net.Api/.vs/Gurps.Net.Api/v16
+/Gurps.Net.Api/bin/Debug/netcoreapp2.2
+/Gurps.Net.Api/obj
+/.vs/Gurps.Net/v16
+/Gurps.Net.Api/bin/Debug/netcoreapp3.0
+/.vs
